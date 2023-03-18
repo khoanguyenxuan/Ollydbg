@@ -1,0 +1,17 @@
+OllyDump v2.01.108 plugin for OllyDBG
+by Gigapede
+
+Features:
+---------
+- Dump Debuggee process memory.
+- Rebuild Import. This does not need the rebIT.dll any more. (Thanks y0da)
+- Catch a transition from one section to anather to help you find OEP.
+
+Install:
+---------
+- Extract the archive.
+- Move OllyDump.dll to the folder which OllyDbg is installed in or a plugins folder You specified.
+    
+Usage:
+---------
+- Guess ;p
